@@ -28,8 +28,8 @@ $navbar-light-active-color: white;
 
 
 // Typography
-$font-family-sans-serif: "Tilt Neon", sans-serif;
-$headings-font-family: "Agbalumo", serif;
+$font-family-sans-serif: "Arya", sans-serif;
+$headings-font-family: "Ubuntu", serif;
 
 
 $h1-font-size: 1rem * 8;
@@ -44,6 +44,13 @@ $line-height-base: 1.6;
 
 
 // Then add additional custom code here
-
+#hero {
+    height: 800px;
+    background-color: #E4E6DB;
+    background-image: url(../images/home-hero-photo.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
 
 
