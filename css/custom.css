@@ -11871,4 +11871,12 @@ textarea.form-control-lg {
   background-size: cover;
 }
 
+.hero-btn {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  font-size: 4rem;
+  color: #5A021A;
+  margin-top: 20rem;
+}
+
 /*# sourceMappingURL=custom.css.map */
