@@ -11878,5 +11878,8 @@ textarea.form-control-lg {
   color: #5A021A;
   margin-top: 20rem;
 }
+.hero-btn:hover {
+  color: white;
+}
 
 /*# sourceMappingURL=custom.css.map */
