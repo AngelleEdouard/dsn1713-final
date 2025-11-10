@@ -13,7 +13,7 @@ $body-bg: #FFA613;
 // https://getbootstrap.com/docs/5.3/customize/color/#theme-colors
 $primary: #F1836A;
 $secondary: #FFA613;
-$success: #b7e3cc;
+$success: #5A021A;
 $info: #c4ffb2;
 $warning: #d6f7a3;
 $danger: #dd7596;
@@ -70,6 +70,10 @@ $line-height-base: 1.6;
 
 #intro {
     font-family: "Ubuntu", sans-serif;
+}
+
+.btn-success :hover {
+    color:#FFA613;
 }
 
 
