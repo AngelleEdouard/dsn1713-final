@@ -14,8 +14,8 @@ $body-bg: #FFA613;
 $primary: #F1836A;
 $secondary: #FFA613;
 $success: #5A021A;
-$info: #c4ffb2;
-$warning: #d6f7a3;
+$info: #C31717;
+$warning: #C31717;
 $danger: #dd7596;
 $light: #f2f2f2;
 $dark: #404e5c;
@@ -76,9 +76,16 @@ $line-height-base: 1.6;
     color:#FFA613;
 }
 
+.col-sm-4 {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
 
-
-
-
-
-
+#franchiseinfo {
+    height: 800px;
+    background-image: url(../images/about-outside-restaurant-photo.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
