@@ -11891,3 +11891,10 @@ textarea.form-control-lg {
 }
 
 /*# sourceMappingURL=custom.css.map */
+#franchise {
+  background-image: url(../images/about-outside-restaurant-photo.jpg);
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
