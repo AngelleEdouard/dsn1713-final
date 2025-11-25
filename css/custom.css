@@ -11897,8 +11897,16 @@ textarea.form-control-lg {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
+  padding: 40px 0;
 }
 
 .overlay-box {
-  
+  width: 400px;
+  height: 400px;
+  margin-right: 40px;
+  margin-left: auto;
+  padding: 25px;
 }
+
+
+
