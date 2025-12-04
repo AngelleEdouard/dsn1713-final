@@ -11911,16 +11911,17 @@ textarea.form-control-lg {
 .overlay-box-two {
   width: 400px;
   height: 200px;
-
+  
 }
 
 
 #mission {
   background-image: url(../images/about-inside-restaurant-photo.jpg), url(../images/about-family-photo.jpg);
-  height: 500px;
+  height: 800px;
   background-repeat: no-repeat;
   background-position: left center, right center;
-  
+  background-size: 50% auto, 50% auto;
+  padding-top: 400px;
 }
 
 
